@@ -1,0 +1,9 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.Form1.resources
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.Properties.Resources.resources
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\gerso\OneDrive\Documentos\Visual Studio 2015\Projects\Jogo\Jogo\obj\Debug\Jogo.pdb
